@@ -1,0 +1,15 @@
+{
+  "name": "actividad-nodejs",
+  "version": "1.0.0",
+  "description": "Actividad para clase de web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Juan Pablo Campos",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
